@@ -1,3 +1,5 @@
+# Next.js IMDB clone Project
+![IMDB Clone](https://github.com/YOUBAZ/imdb-next.js/assets/138230511/30dc82e6-5d97-4708-af64-153eaf29f2c9)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
